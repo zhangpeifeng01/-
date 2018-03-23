@@ -1,0 +1,2 @@
+hosts 放在:C:\Windows\System32\drivers\etc下面
+火狐驱动:geckodriver.exe 放在火狐根目录下

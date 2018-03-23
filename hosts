@@ -1,0 +1,72 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+127.0.0.1       localhost
+
+127.0.0.1 nfdns10.cncmax.cn 
+#	::1             localhost
+
+#120.26.42.211 app2015lcsht.fwfortune.com
+#58.215.78.136  www.irongbei-admin.com
+
+
+127.0.0.1 localhost chedidai.pc.com    chedidia.admin.com  chedidai.wp.com   baom.yii.com yiiforum.yii.com  crm.admin.com
+#127.0.0.1 localhost  lover.com   lar.com
+#127.0.0.1 localhost  static.wesihang.com
+#127.0.0.1       
+#127.0.0.1  back.lianxi.com     lcsapp.com localhost    lcsadmin.com     lcswap.com  backend.wesihang.com  wap.wesihang.com   static.z1231.com  
+127.0.0.1   localhost  backend.aifenx.com    img.aifen.com     content.img.com   app.aifenx.com  wap.aifenx.com  back.lianxi.com   back.zhangshuai.com  cms.cms.com   cms.admin.com
+
+
+
+  140.206.112.245   bianmin-test.chinapay.com
+
+  121.41.45.80 business.irongbei.com
+
+
+
+  121.41.45.80  corporateadmin.irongbei.com
+
+#irongbei
+
+ #121.41.45.80 www.irongbei.com www.g.com
+
+  121.41.45.80 rongbeiadmin.51dmoz.com
+
+  120.26.104.140 testadmin.51dmoz.com
+
+  121.41.57.22     datacenter.irongbei.com
+
+   121.199.64.147  irongbei20160107adrb.irongbei.com
+
+   121.41.45.80  rongbeiadmin.51dmoz.com
+   
+103.235.224.228 ichedaokuan2016admin0624.ichedaokuan.com
+  
+#0.0.0.1	mssplus.mcafee.com
+
+
+#0.0.0.1	mssplus.mcafee.com
+0.0.0.1	mssplus.mcafee.com
+
+
+
+120.26.104.140  asset.irongbei.com 
+
+120.26.104.140   asset_admin.irongbei.com
